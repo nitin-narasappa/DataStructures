@@ -1,1 +1,1 @@
-# DataStructures and algorithms mostly implemented in Java
+DataStructures and algorithms mostly implemented in Java
