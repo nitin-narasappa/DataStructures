@@ -20,9 +20,11 @@ public class Staircase {
         StringBuffer buff = new StringBuffer(n);
         for (int i=1; i <= n; i++){
              for (int j=1; j <= n; j++){
+                 // Fill space until n-i length
                  if( j <= n-i) {
                     System.out.print(" ");
                   } else {
+                     // Fill # for the rest.
                      System.out.print("#");
                  }
              }
